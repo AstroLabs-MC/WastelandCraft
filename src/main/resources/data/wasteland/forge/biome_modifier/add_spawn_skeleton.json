@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "wasteland:wasteland",
+  "spawners": {
+    "type": "minecraft:skeleton",
+    "weight": 100,
+    "minCount": 1,
+    "maxCount": 4
+  }
+}

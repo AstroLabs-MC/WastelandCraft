@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "wasteland:wasteland",
+  "features": [],
+  "step": "underground_ores"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "forge:remove_features",
+  "biomes": "wasteland:wasteland",
+  "features": [
+    "minecraft:freeze_top_layer",
+    "minecraft:ice_spike",
+    "minecraft:ice_patch",
+    "minecraft:desert_well"
+  ],
+  "steps": [
+    "top_layer_modification",
+    "vegetal_decoration",
+    "surface_structures"
+  ]
+}

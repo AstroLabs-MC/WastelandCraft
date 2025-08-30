@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "wasteland:wasteland_block",
+    "wasteland:wasteland_dirt"
+  ]
+}

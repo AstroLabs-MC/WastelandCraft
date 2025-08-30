@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": "wasteland:wasteland",
+  "features": [
+    "wasteland:extra_ore_iron_deepslate",
+    "wasteland:extra_ore_redstone_deepslate",
+    "wasteland:extra_ore_gold_deepslate",
+    "wasteland:extra_ore_diamond_deepslate",
+    "wasteland:extra_ore_lapis_deepslate"
+  ],
+  "step": "underground_ores"
+}

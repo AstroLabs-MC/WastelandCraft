@@ -1,0 +1,7 @@
+{
+  "forge:conditions": [
+    { "type": "wasteland:allow_external_structures" }
+  ],
+  "replace": false,
+  "values": []
+}

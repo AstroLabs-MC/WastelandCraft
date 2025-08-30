@@ -1,0 +1,24 @@
+{
+  "forge:conditions": [
+    {
+      "type": "forge:not",
+      "value": { "type": "forge:mod_loaded", "modid": "alexscaves" }
+    }
+  ],
+  "type": "forge:remove_spawns",
+  "biomes": "wasteland:wasteland",
+  "entity_types": [
+    "minecraft:rabbit",
+    "minecraft:sheep",
+    "minecraft:cow",
+    "minecraft:pig",
+    "minecraft:chicken",
+    "minecraft:horse",
+    "minecraft:donkey",
+    "minecraft:llama",
+    "minecraft:goat",
+    "minecraft:camel",
+    "minecraft:fox",
+    "minecraft:wolf"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "forge:conditions": [
+    {
+      "type": "forge:not",
+      "value": { "type": "forge:mod_loaded", "modid": "alexscaves" }
+    }
+  ],
+  "type": "forge:remove_features",
+  "biomes": "wasteland:wasteland",
+  "features": [
+    "minecraft:spring_water",
+    "minecraft:spring_lava"
+  ],
+  "steps": [
+    "lakes",
+    "fluid_springs"
+  ]
+}

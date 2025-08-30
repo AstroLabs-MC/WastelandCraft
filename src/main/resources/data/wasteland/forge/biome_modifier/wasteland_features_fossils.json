@@ -1,0 +1,16 @@
+{
+  "forge:conditions": [
+    { "type": "wasteland:allow_external_structures" },
+    {
+      "type": "forge:not",
+      "value": { "type": "forge:mod_loaded", "modid": "alexscaves" }
+    }
+  ],
+  "type": "forge:add_features",
+  "biomes": "wasteland:wasteland",
+  "features": [
+    "minecraft:fossil_upper",
+    "minecraft:fossil_lower"
+  ],
+  "step": "underground_structures"
+}

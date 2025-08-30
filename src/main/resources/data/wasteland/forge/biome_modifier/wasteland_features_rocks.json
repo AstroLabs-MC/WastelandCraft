@@ -1,0 +1,12 @@
+{
+  "forge:conditions": [
+    {
+      "type": "forge:not",
+      "value": { "type": "forge:mod_loaded", "modid": "alexscaves" }
+    }
+  ],
+  "type": "forge:add_features",
+  "biomes": "wasteland:wasteland",
+  "features": "wasteland:wasteland_boulder",
+  "step": "local_modifications"
+}
