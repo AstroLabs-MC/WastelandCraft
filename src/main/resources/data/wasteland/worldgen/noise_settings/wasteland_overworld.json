@@ -1,5 +1,5 @@
 {
-  "aquifers_enabled": true,
+  "aquifers_enabled": false,
   "default_block": {
     "Name": "wasteland:wasteland_block"
   },
@@ -331,8 +331,8 @@
       }
     }
   },
-  "ore_veins_enabled": true,
-  "sea_level": 63,
+  "ore_veins_enabled": false,
+  "sea_level": 38,
   "spawn_target": [
     {
       "continentalness": [ -0.11, 1.0 ],
